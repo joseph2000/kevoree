@@ -6,8 +6,6 @@
       <icon href="icon/kev-logo-full.png" width="64" height="64"/>
 	  <offline-allowed />
 	  <association mime-type="application-x/kevmodel" extensions="kev"/>
-	  <shortcut online="true">
-	  </shortcut>
    </information>
    <resources>
       <jar href="lib/KevoreeRuntime.jar" main="true" />
