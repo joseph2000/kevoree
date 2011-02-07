@@ -7,7 +7,6 @@
 	  <offline-allowed />
 	  <association mime-type="application-x/kevmodel" extensions="kev"/>
 	  <shortcut online="true">
-	  	<desktop/>
 	  </shortcut>
    </information>
    <resources>
