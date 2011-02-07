@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp spec="1.0" codebase="http://dukeboard.github.com/kevoree/releases" >
    <information>
-      <title>Kevoree Editor</title>
+      <title>Kevoree Runtime</title>
       <vendor>INRIA</vendor>
       <icon href="icon/kev-logo-full.png" width="64" height="64"/>
 	  <offline-allowed />
