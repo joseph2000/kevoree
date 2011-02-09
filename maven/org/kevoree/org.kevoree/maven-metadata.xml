@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kevoree</groupId>
+  <artifactId>org.kevoree</artifactId>
+  <versioning>
+    <versions>
+      <version>2.2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110209160815</lastUpdated>
+  </versioning>
+</metadata>

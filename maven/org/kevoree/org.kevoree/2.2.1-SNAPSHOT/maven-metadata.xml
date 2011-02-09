@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.kevoree</groupId>
+  <artifactId>org.kevoree</artifactId>
+  <version>2.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110209.160815</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20110209160815</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2.1-20110209.160815-2</value>
+        <updated>20110209160815</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
