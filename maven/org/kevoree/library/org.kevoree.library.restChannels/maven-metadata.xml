@@ -3,10 +3,11 @@
   <groupId>org.kevoree.library</groupId>
   <artifactId>org.kevoree.library.restChannels</artifactId>
   <versioning>
-    <release>1.0.0-RC1</release>
+    <release>1.0.0-RC2</release>
     <versions>
       <version>1.0.0-RC1</version>
+      <version>1.0.0-RC2</version>
     </versions>
-    <lastUpdated>20110210212830</lastUpdated>
+    <lastUpdated>20110217161719</lastUpdated>
   </versioning>
 </metadata>
