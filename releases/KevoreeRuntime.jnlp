@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp spec="1.0" codebase="http://dukeboard.github.com/kevoree/releases" >
    <information>
-      <title>Kevoree Runtime 1.0.0-RC2</title>
+      <title>Kevoree Runtime</title>
       <vendor>INRIA</vendor>
       <icon href="icon/kev-logo-full.png" width="64" height="64"/>
-	  <offline-allowed />
+	  <!--<offline-allowed />-->
 	  <association mime-type="application-x/kevmodel" extensions="kev"/>
    </information>
    <resources>
