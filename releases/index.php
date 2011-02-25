@@ -1,3 +1,4 @@
+<?php include("lastVersion.php"); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
@@ -46,7 +47,7 @@
         <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
     </div>
 
-    <h1><a href="http://github.com/dukeboard/kevoree"><img border="0" src="figures/kevoree-logo-full.png" alt="Kevoree" /></a>
+    <h1><a href="http://github.com/dukeboard/kevoree"><img border="0" src="icon/kevoree-logo-full.png" alt="Kevoree" /></a>
       <span class="small">by <a href="http://github.com/dukeboard">dukeboard</a></span></h1>
 
     <div class="description">
@@ -59,7 +60,7 @@
 <p>Fouquet François (fouquet.f@gmail.com)<br/>      </p>
 
 
-    <h2>Download</h2>
+    <h2>Download - version=<? echo $kevVersion; ?></h2>
     <p>
       You can download this project in either
       <a href="http://github.com/dukeboard/kevoree/zipball/master">zip</a> or
@@ -67,10 +68,14 @@
     </p>
     
     <p>You can run Kevoree editor via JNLP link
-    	<a href="http://dist.kevoree.org/KevoreeEditor.php">Kevoree Editor (Java Web Start)<img src="figures/kev-logo-full.png" /></a>
+    	<a href="http://dist.kevoree.org/KevoreeEditor.php">Kevoree Editor (Java Web Start)<img src="icon/kev-logo-small.png" /></a>
     </p>
     <p>You can run Kevoree Runtime via JNLP link
-    	<a href="http://dist.kevoree.org/KevoreeRuntime.php">Kevoree Runtime (Java Web Start)<img src="figures/kev-logo-full.png" /></a>
+    	<a href="http://dist.kevoree.org/KevoreeRuntime.php">Kevoree Runtime (Java Web Start)<img src="icon/kev-logo-small.png" /></a>
+    </p>
+    <p>You can download Kevoree Android Runtime (apk) via this link
+    <?php echo "<a href=\"http://maven.kevoree.org/libs-release-local/org/kevoree/platform/org.kevoree.platform.osgi.android/$kevVersion/org.kevoree.platform.osgi.android-$kevVersion.apk\">Kevoree Android Runtime (apk)<img src=\"icon/kev-logo-small.png\" /></a>"; ?>
+
     </p>
     
     
