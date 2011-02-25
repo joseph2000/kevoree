@@ -8,7 +8,7 @@
 	  <association mime-type="application-x/kevmodel" extensions="kev"/>
    </information>
    <resources>
-      <jar href="lib/KevoreeRuntime.jar" main="true" />
+      <jar href="http://maven.kevoree.org/libs-release-local/org/kevoree/platform/org.kevoree.platform.osgi.standalone.gui/1.0.0-RC3/org.kevoree.platform.osgi.standalone.gui-1.0.0-RC3.jar" main="true" />
    </resources>
    <application-desc main-class="org.kevoree.platform.osgi.standalone.gui.App"/>
    <security>

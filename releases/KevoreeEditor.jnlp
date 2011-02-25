@@ -8,11 +8,10 @@
 	  <association mime-type="application-x/kevmodel" extensions="kev"/>
    </information>
    <resources>
-      <jar href="lib/KevoreeEditor.jar" main="true" />
+      <jar href="http://maven.kevoree.org/libs-release-local/org/kevoree/tools/org.kevoree.tools.ui.editor.standalone/1.0.0-RC3/org.kevoree.tools.ui.editor.standalone-1.0.0-RC3.jar" main="true" />
    </resources>
    <application-desc main-class="org.kevoree.tools.ui.editor.standalone.App"/>
    <security>
      <all-permissions/>
   </security>
 </jnlp>
-
